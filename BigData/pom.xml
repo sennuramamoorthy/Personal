@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.sennu</groupId>
             <artifactId>JavaCore</artifactId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
 
     </dependencies>
