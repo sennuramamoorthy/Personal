@@ -11,5 +11,13 @@
 
     <artifactId>BigData</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.sennu</groupId>
+            <artifactId>JavaCore</artifactId>
+            <version>${parent.version}</version>
+        </dependency>
+
+    </dependencies>
 
 </project>

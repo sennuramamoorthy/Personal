@@ -11,5 +11,14 @@
 
     <artifactId>JavaCore</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.sennu</groupId>
+            <artifactId>Beans</artifactId>
+            <version>${parent.version}</version>
+        </dependency>
+
+    </dependencies>
+
 
 </project>
